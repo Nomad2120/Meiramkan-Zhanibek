@@ -1,0 +1,45 @@
+body {
+  background-color: #97BFB4;
+}
+
+h1 {
+  position: static;
+  margin-left: 17px;
+  color: #1A374D;
+  font-size: 30px;
+  background-color: #F5EEDC;
+}
+
+img {
+  border-radius: 50%;
+}
+
+p {
+  margin-left: 17px;
+  color: #32502E;
+}
+
+table, th, td {
+  border:none;
+}
+
+h3 {
+  font-size: 17px;
+}
+
+.list {
+  font-size: 17px;
+}
+
+div.sma {
+
+  left: 13px;
+  right: 350px;
+  background-color: #F5EEDC;
+}
+
+.sma1 {
+  height: 900;
+  width: 780;
+  background-color:#F5EEDC;
+}
